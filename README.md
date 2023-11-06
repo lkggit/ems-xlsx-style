@@ -1,4 +1,4 @@
-# xlsx-style
+# ems-xlsx-style
 
 Parser and writer for various spreadsheet formats.  Pure-JS cleanroom implementation from official specifications and related documents.
 
