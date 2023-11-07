@@ -1,4 +1,4 @@
-# ems-xlsx-style
+# ems-ex-xlsx-style
 
 Parser and writer for various spreadsheet formats.  Pure-JS cleanroom implementation from official specifications and related documents.
 
@@ -38,7 +38,7 @@ Source: <http://git.io/xlsx>
 With [npm](https://www.npmjs.org/package/xlsx-style):
 
 ```sh
-npm install ems-xlsx-style --save
+npm install ems-ex-xlsx-style --save
 ```
 
 In the browser:
