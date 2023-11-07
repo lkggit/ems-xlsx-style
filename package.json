@@ -1,5 +1,5 @@
 {
-	"name": "ems-xlsx-style",
+	"name": "ems-ex-xlsx-style",
 	"version": "0.8.13",
 	"author": "ems",
 	"description": "Excel (XLSB/XLSX/XLSM/XLS/XML) and ODS spreadsheet parser and writer (extended to enable read/write of cell formats with xlsx files)",
