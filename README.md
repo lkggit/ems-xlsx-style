@@ -38,7 +38,7 @@ Source: <http://git.io/xlsx>
 With [npm](https://www.npmjs.org/package/xlsx-style):
 
 ```sh
-npm install xlsx-style --save
+npm install ems-xlsx-style --save
 ```
 
 In the browser:
